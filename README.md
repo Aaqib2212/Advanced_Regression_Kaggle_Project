@@ -7,3 +7,5 @@ This project demonstrates a robust regression modeling pipeline to accurately pr
 3.**Model Implementation**:
 4.**Evaluation Metrics**: Employed RMSE and R² score for model assessment.
 5.**Output Integration**: Generated prediction results suitable for downstream analysis or submission (e.g., Kaggle).
+
+# Tech
