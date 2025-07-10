@@ -5,8 +5,5 @@ This project demonstrates a robust regression modeling pipeline to accurately pr
 1.**Comprehensive EDA**: Identified key drivers of house prices through correlation heatmaps, outlier detection, and distribution analysis.
 2.**Data Preprocessing**: Addressed missing values, encoded categorical variables, and performed feature scaling and transformation.
 3.**Model Implementation**:
-   -Linear Regression
-   -Ridge & Lasso Regression for regularization
-   -Hyperparameter tuning using cross-validation
 4.**Evaluation Metrics**: Employed RMSE and R² score for model assessment.
 5.**Output Integration**: Generated prediction results suitable for downstream analysis or submission (e.g., Kaggle).
