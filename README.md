@@ -19,3 +19,23 @@ This project demonstrates a robust regression modeling pipeline to accurately pr
   - Prediction & Result Export
 
  # How to run the code
+ **Clone the repository**
+  ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   cd your-repo-name
+   ```
+# Install Required Libraries
+ ```bash
+pip install -r requirements.txt
+```
+# Open the Jupyter Notebook
+```bash
+jupyter notebook
+```
+# Prepare the Dataset
+- train.csv
+- test.csv
+# Run all Cells
+- Clean and preprocess data
+- Train and evaluate regression models
+- Generate and export predictions (output.xls)
