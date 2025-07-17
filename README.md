@@ -42,3 +42,9 @@ jupyter notebook
 - Clean and preprocess data
 - Train and evaluate regression models
 - Generate and export predictions (output.xls)
+# Output
+The submission file output.xls contains predicted prices for the test dataset in Kaggle format.
+# Contact
+Feel free to connect:
+- Linkedin: https://www.linkedin.com/in/aaqib2212/
+- Mail: aaqibbelim0@gmail.com
