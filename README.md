@@ -24,7 +24,7 @@ This project demonstrates a robust regression modeling pipeline to accurately pr
  # How to run the code
  **Clone the repository**
   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Aaqib2212/your-repo-name.git
    cd your-repo-name
    ```
 # Install Required Libraries
