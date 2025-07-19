@@ -44,6 +44,9 @@ jupyter notebook
 - Generate and export predictions (output.xls)
 # Output
 The submission file output.xls contains predicted prices for the test dataset in Kaggle format.
+# License
+This project is open-source and available under the [MIT License](LICENSE).
+
 # Contact
 Feel free to connect:
 - Linkedin: https://www.linkedin.com/in/aaqib2212/
